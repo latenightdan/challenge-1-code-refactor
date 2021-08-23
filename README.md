@@ -1,0 +1,1 @@
+here is my first challenge. I tried to refactor as much as I could. I probably missed some, but I'm only human
